@@ -12,7 +12,7 @@ The following files are included in this project:
 
 LSTM_Encoder_Decoder.ipynb: The Jupyter notebook containing the code and the results of the project.
 
-Data_ultrasound.mat: The MATLAB file for genearting the Ultrasound Data
+Data_ultrasound.m: The MATLAB file for genearting the Ultrasound Data
 
 README.md: This file, providing an overview of the project.
 
